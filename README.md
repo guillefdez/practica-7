@@ -1,4 +1,4 @@
-# Practica 6: Persistencia con Queries
+# Practica 7: Persistencia con Queries
 
 ## Explicación desarrollo
 
